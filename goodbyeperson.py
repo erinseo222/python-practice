@@ -1,0 +1,11 @@
+# This program prints Hello, world! 
+print(" ------------------------------------------------")
+print("|                                                |")
+print("|    02GoodbyePerson                             |")
+print("|    Name : Erin Seo                             |")
+print("|    Version : 01                                |")
+print("|                                                |")
+print(" ------------------------------------------------")
+print("Hello")
+username=input("Erin")
+print("Goodbye" + username)
