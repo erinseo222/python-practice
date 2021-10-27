@@ -1,8 +1,11 @@
-# This program prints Hello, world!
-
-print('------------------------------------')
-print('|   01HelloWorld                    |')
-print('|   Name: Erin Seo                  |')
-print('|   Version: 01                     |')
-print('------------------------------------')
-print('Hello, world')
+# This program prints Hello, world! 
+print(" ------------------------------------------------")
+print("|                                                |")
+print("|    02GoodbyeWorld                              |")
+print("|    Name : Erin Seo                             |")
+print("|    Version : 01                                |")
+print("|                                                |")
+print(" ------------------------------------------------")
+print("Hello World")
+input ("------> Program paused - press enter to continue")
+print("Goodbye World")
