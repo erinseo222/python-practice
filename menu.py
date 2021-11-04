@@ -68,7 +68,7 @@ while True:
     print("4. Good Teacher")
     print("5. forLoop")
     print("6. whileLoop")
-    print("7. string Loop")
+    print("7. stringLoop")
     print("8. convert to ascii")
     print("9. Encode to string")
     print("x. To Exit")
